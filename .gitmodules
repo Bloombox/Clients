@@ -1,0 +1,12 @@
+[submodule "Java"]
+	path = Java
+	url = https://github.com/bloombox/java.git
+	branch = master
+[submodule "Swift"]
+	path = Swift
+	url = https://github.com/bloombox/swift.git
+	branch = master
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/bloombox/js.git
+	branch = master
